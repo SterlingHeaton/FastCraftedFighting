@@ -1,0 +1,15 @@
+name: FastCraftedFighting
+main: com.redslounge.Plugin
+author: Sterling (Redstonehax)
+description: Fast paced PvP minigame that brings in vanilla gameplay.
+version: 1.0
+api-version: 1.13
+commands:
+  fcf:
+    description: Main command for all of fast crafted commands.
+  mine:
+    description: Mine commands.
+  harvest:
+    description: Harvest related commands.
+  loot:
+    description: Loot based commands.
